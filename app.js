@@ -1,3 +1,33 @@
+// // Task One
+
+
+// // Get user input
+// var name = prompt("Enter Your Name");
+// var phoneNumber = prompt("Enter Your phone Number: ");
+// var email = prompt("Enter Your Email: ");
+// var password = prompt("Enter Your Password: ");
+// var confirmPassword = prompt("Confirm Your Password: ");
+
+// // Check for empty inputs
+// if (!name || !phoneNumber || !email || !password || !confirmPassword) {
+//     alert("Error: Please Fill in All The Fields.");
+// } else {
+//     // Check if password and confirm password match
+//     if (password === confirmPassword) {
+//         alert("Alert: You Are Successfully Registered!");
+//     } else {
+//         alert("Error: Password And Confirm Password Do Not Match.");
+//     }
+// }
+
+
+
+
+
+
+
+
+
 // // Task Two
 
 
